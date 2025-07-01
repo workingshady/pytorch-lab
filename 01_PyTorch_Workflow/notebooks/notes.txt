@@ -1,0 +1,3 @@
+Don't forget to do some revision, read the book, review codes, and the curriculum.
+Also, practice implementing key concepts and experiment with different PyTorch models.
+
